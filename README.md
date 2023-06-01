@@ -18,7 +18,7 @@ Usage:
 3. Preprocess the training data by reshaping it into a 3D array representing images. The original images are 28x28 grayscale, so the data is reshaped to (-1, 28, 28).
 
 4. Display an example image from the training data to visualize the input.
-  <img width="314" alt="dataset_visualization" src="https://github.com/hhumayune/ML-Classifer-SVM/assets/92355531/f5f956e3-d042-44ad-b3fb-f6b6e2596b67">
+  ...<img width="314" alt="dataset_visualization" src="https://github.com/hhumayune/ML-Classifer-SVM/assets/92355531/f5f956e3-d042-44ad-b3fb-f6b6e2596b67">
 
 5. Defined a function `extract_features` to extract features from images. By default, the Histogram of Oriented Gradients (HOG) method is used. You can implement additional methods like edge extraction, color channel extraction, or midpoint extraction if needed.
 
